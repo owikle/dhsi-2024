@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: psychiana032
+featured-image: psychiana005
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 16em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
@@ -106,14 +106,14 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the template uses Bootstrap Icons, https://icons.getbootstrap.com/
 # find the names on the BI icons page, e.g. file-image
 #
-# icons: 
-#   icon-image: image
-#   icon-audio: soundwave
-#   icon-video: film
-#   icon-pdf: file-pdf
-#   icon-record: file-text
-#   icon-panorama: image-alt
-#   icon-compound-object: collection 
-#   icon-multiple: postcard
-#   icon-default: file-earmark # fall back icon
-#   icon-back-to-top: arrow-up-square
+icons: 
+  icon-image: image
+  icon-audio: soundwave
+  icon-video: film
+  icon-pdf: file-pdf
+  icon-record: alarm
+  icon-panorama: image-alt
+  icon-compound-object: collection 
+  icon-multiple: postcard
+  icon-default: file-earmark # fall back icon
+  icon-back-to-top: arrow-up-square
